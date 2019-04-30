@@ -2,7 +2,7 @@
 Os fundamentos da linguagem Python explicados em documentos do Jupyter Notebook
 
 ## Parte I - Introdução
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucasgris/minicurso-python/blob/master/Minicurso_Python_Notebook.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/lucasgris/minicurso-python/blob/master/Minicurso_\(Python\)_Notebook.ipynb)
 
 Na introdução você pode encontrar os fundamentos da linguagem Python e alguns conceitos iniciais do mundo da programação, tais como:
 
